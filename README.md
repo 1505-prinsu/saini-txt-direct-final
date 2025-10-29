@@ -63,8 +63,7 @@ Bot username
 
 
 Repo 
-https://github.com/nikhilsainiop/saini-txt-direct
-https://github.com/cyberseller999/saini-txt-direct
+https://github.com/1505-prinsu/saini-txt-direct-final 
 
 YouTube to mp3 & video downloader repo via cookies method 
 https://github.com/nikhilsainiop/YT-downloader-bot
